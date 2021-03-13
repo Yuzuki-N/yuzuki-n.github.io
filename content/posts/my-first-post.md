@@ -4,8 +4,10 @@ date: 2021-03-10T23:48:00+08:00
 draft: false
 ---
 
-# HI
-## There there
+# 做一点酷的事情
 
+拿起cs61a好几次，又放弃了好几次
+总要做一点困难的事情才能成长
+你说对吧
+这次就不要放弃了
 
-hope everything will be ok

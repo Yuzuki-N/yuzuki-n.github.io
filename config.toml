@@ -1,4 +1,4 @@
 baseURL = "https://yuzuki-n.github.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "zh-cn"
+title = "yuzuki的小站"
 theme = "ananke"
