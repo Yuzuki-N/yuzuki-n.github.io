@@ -1,4 +1,4 @@
 baseURL = "https://yuzuki-n.github.io/"
-languageCode = "zh-cn"
+languageCode = "en-us"
 title = "yuzuki的小站"
 theme = "ananke"
